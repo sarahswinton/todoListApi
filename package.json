@@ -1,0 +1,31 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "Learning to create a RESTful API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahswinton/todoListApi.git"
+  },
+  "keywords": [
+    "\"RESTful\"",
+    "\"API\"",
+    "\"Tutorial\""
+  ],
+  "author": "\"Sarah Swinton\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahswinton/todoListApi/issues"
+  },
+  "homepage": "https://github.com/sarahswinton/todoListApi#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
